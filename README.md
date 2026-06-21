@@ -1,105 +1,55 @@
-<div align="center">
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:007BFF&height=220&section=header&text=Housseni%20O5&fontSize=50&fontColor=ffffff"/>
+</h1>
 
-# 👋 Salut, je suis Housseni O5
-
-### 💻 Software Engineering • Artificial Intelligence • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub!;Software+Engineering+Student;Artificial+Intelligence+Enthusiast;Always+Learning+New+Technologies" />
-
-</div>
-
----
-
-# 🚀 À propos
-
-🎓 Étudiant en Génie Logiciel & Intelligence Artificielle
-
-💡 Passionné par :
-
-- Développement Web
-- Intelligence Artificielle
-- Data Science
-- Développement Desktop
-- Open Source
-
----
-
-# 🛠 Technologies
+<h3 align="center">
+🎓 Software Engineering & Artificial Intelligence Student
+</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,java,c,go,mysql,git,github,vscode" />
-
+Passionate about programming, web development, Java, Python and Artificial Intelligence.
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
+- 🎓 Software Engineering & Artificial Intelligence Student
+- 🌱 Currently learning Java, Spring Boot and Machine Learning
+- 💻 I enjoy building web and desktop applications
+- 🚀 Goal: Become an AI Engineer & Full Stack Developer
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Housseni05&show_icons=true&theme=github_dark"/>
+---
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Housseni05&layout=compact&theme=github_dark"/>
+## 🛠️ Languages & Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Housseni05&theme=github-dark-blue"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Housseni05&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Housseni05&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Housseni05&theme=algolia&margin-w=15"/>
-
+<img src="https://streak-stats.demolab.com?user=Housseni05&theme=tokyonight"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+## 🌐 Connect with me
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/ousseni-jahid-bb4074311/))
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Housseni05&theme=github-dark"/>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)]([https://facebook.com](https://www.facebook.com/housseni.jahid/))
 
-</p>
-
----
-
-# 🌍 Me contacter
-
-<p align="center">
-
-<a href="https://facebook.com/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:example@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Merci de visiter mon profil !
-
-<img src="https://komarev.com/ghpvc/?username=Housseni05&style=for-the-badge&color=blue"/>
-
-</div>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jimmyhahmed@gmailcom)
