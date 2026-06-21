@@ -1,12 +1,48 @@
-- 👋 Hi, I’m @Housseni05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:007BFF&height=220&section=header&text=Housseni%20O5&fontSize=50&fontColor=ffffff"/>
+</h1>
 
-<!---
-Housseni05/Housseni05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+🎓 Software Engineering & Artificial Intelligence Student
+</h3>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Software Engineering & Artificial Intelligence Student
+- 🌱 Currently learning Java, Python, PHP and Laravel
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,php,python,java,c,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Housseni05&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Housseni05&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Housseni05&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:example@gmail.com)
