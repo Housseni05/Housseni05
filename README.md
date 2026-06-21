@@ -15,16 +15,13 @@ Passionate about programming, web development, Java, Python and Artificial Intel
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering & Artificial Intelligence Student
-- 🌱 Currently learning Java, Spring Boot and Machine Learning
-- 💻 I enjoy building web and desktop applications
-- 🚀 Goal: Become an AI Engineer & Full Stack Developer
-
+- 🌱 Currently learning Java, Python, PHP and Laravel
 ---
 
 ## 🛠️ Languages & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,bootstrap,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,php,laravel,python,java,c,bootstrap,mysql,git,github,vscode" />
 </p>
 
 ---
