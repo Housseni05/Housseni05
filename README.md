@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align="center">
-🎓 Software Engineering & Artificial Intelligence Student
+🎓 Software Engineering
 </h3>
 
 <p align="center">
-Passionate about programming, web development, Java, Python and Artificial Intelligence.
+Passionate about programming, web development
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering & Artificial Intelligence Student
+- 🎓 Software Engineering Student
 - 🌱 Currently learning Java, Python, PHP and Laravel
 ---
 
